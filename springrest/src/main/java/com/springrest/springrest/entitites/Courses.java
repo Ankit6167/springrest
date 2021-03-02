@@ -7,7 +7,7 @@ public class Courses {
 	private String description;
 	
 	
-	public Course(long id, String title, String description) {
+	public Courses(long id, String title, String description) {
 		super();
 		this.id = id;
 		this.title= title;
